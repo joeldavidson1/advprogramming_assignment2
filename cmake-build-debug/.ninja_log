@@ -1,0 +1,22 @@
+# ninja log v5
+1	54	1675940372089035853	build.ninja	20dbee430c718d95
+2	402	1673260174489781385	CMakeFiles/Assignment2.dir/Driver.cpp.o	e415ea1e4e7649a2
+2	447	1673259193516983091	CMakeFiles/Assignment2.dir/Point.cpp.o	b277a4958fa1d7f4
+2	282	1673259700297807494	CMakeFiles/Assignment2.dir/main.cpp.o	61388c02ee7a37af
+2	266	1673259276548654360	CMakeFiles/Assignment2.dir/Square.cpp.o	8bc6aa395ac62088
+402	446	1673260174535374621	Assignment2	37af7aa443580f5a
+3	460	1673256834094247455	CMakeFiles/Assignment2.dir/Movable.cpp.o	d76c25cb1fba8adf
+2	272	1673259276556244587	CMakeFiles/Assignment2.dir/Circle.cpp.o	d00e6e7b72229d4e
+2	266	1673259276549067097	CMakeFiles/Assignment2.dir/Rectangle.cpp.o	159723bb1eed3fd3
+2	403	1673259193475035370	CMakeFiles/Assignment2.dir/Shape.cpp.o	1c0f97bfdfdab56b
+2	394	1673260174481707590	CMakeFiles/Assignment2.dir/Helper.cpp.o	c8dd9383bfd80221
+2	527	1675940432023711561	CMakeFiles/Assignment2.dir/Driver.cpp.o	e415ea1e4e7649a2
+527	591	1675940432092387662	Assignment2	37af7aa443580f5a
+5	410	1675940480554356032	CMakeFiles/Assignment2.dir/Driver.cpp.o	e415ea1e4e7649a2
+410	451	1675940480598215728	Assignment2	37af7aa443580f5a
+1	280	1675940513619928339	CMakeFiles/Assignment2.dir/Driver.cpp.o	e415ea1e4e7649a2
+280	316	1675940513657411064	Assignment2	37af7aa443580f5a
+2	416	1675940564217181859	CMakeFiles/Assignment2.dir/Driver.cpp.o	e415ea1e4e7649a2
+416	458	1675940564262350931	Assignment2	37af7aa443580f5a
+2	269	1675940576112598635	CMakeFiles/Assignment2.dir/Driver.cpp.o	e415ea1e4e7649a2
+270	304	1675940576148027906	Assignment2	37af7aa443580f5a
